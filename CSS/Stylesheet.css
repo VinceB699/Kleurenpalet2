@@ -1,0 +1,40 @@
+
+header {
+    background-color: #af3636;width: 250px;height: 100px;   
+}
+
+#cel1  {
+    background-color: aqua;
+}
+
+#cel2  {
+    background-color:beige;
+}
+
+#cel3  {
+    background-color:blue;
+}
+
+#cel4  {
+    background-color:blueviolet;
+}
+
+#cel5  {
+    background-color:crimson;
+}
+
+#cel6  {
+    background-color:chartreuse;
+}
+
+#cel7  {
+    background-color:darkorange;
+}
+
+#cel8  {
+    background-color:gold;
+}
+
+footer {
+    background-color: blueviolet;width: 250px;height: 300px;
+}
